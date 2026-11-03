@@ -1,0 +1,12 @@
+[
+  {
+    "id": "berzerk",
+    "title": "Berzerk (1982) (Atari)",
+    "file": "roms/berzerk.bin"
+  },
+  {
+    "id": "adventure",
+    "title": "Adventure (1980) (Atari)",
+    "file": "roms/adventure.bin"
+  }
+]

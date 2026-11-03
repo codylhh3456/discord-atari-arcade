@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Atari Arcade Activity</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Sidebar for search and library -->
+        <div id="sidebar">
+            <h2>Atari 2600 Library</h2>
+            <input type="text" id="search" placeholder="Search 2,600+ games..." />
+            <ul id="game-list"></ul>
+        </div>
+        <!-- Emulator screen area -->
+        <div id="emulator-viewport">
+            <canvas id="canvas" width="160" height="192"></canvas>
+            <div id="status">Select a game to start playing</div>
+        </div>
+    </div>
+
+    <!-- Discord Embedded SDK -->
+    <script src="https://almond.discord.gelato.io/@discord/embedded-app-sdk@1.0.0/lib/index.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
