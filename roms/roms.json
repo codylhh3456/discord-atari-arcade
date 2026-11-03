@@ -2133,5 +2133,950 @@
 "id": "rush_hour_prototype",
 "title": "Rush Hour (Prototype) (Atari)",
 "file": "roms/Rush Hour (Prototype).bin"
+},
+{
+"id": "s_a_c_alert_prototype",
+"title": "S.A.C. Alert (Prototype) (Atari)",
+"file": "roms/S.A.C. Alert (Prototype).bin"
+},
+{
+"id": "saboteur_prototype",
+"title": "Saboteur (Prototype) (Atari)",
+"file": "roms/Saboteur (Prototype).bin"
+},
+{
+"id": "save_mary_prototype",
+"title": "Save Mary! (Prototype) (Atari)",
+"file": "roms/Save Mary! (Prototype).bin"
+},
+{
+"id": "save_our_ship_pal",
+"title": "Save Our Ship (PAL) (Atari)",
+"file": "roms/Save Our Ship (PAL).bin"
+},
+{
+"id": "save_the_whales_prototype",
+"title": "Save the Whales (Prototype) (Atari)",
+"file": "roms/Save the Whales (Prototype).bin"
+},
+{
+"id": "sea_battle",
+"title": "Sea Battle (Atari)",
+"file": "roms/Sea Battle.bin"
+},
+{
+"id": "sea_monster_pal",
+"title": "Sea Monster (PAL) (Atari)",
+"file": "roms/Sea Monster (PAL).bin"
+},
+{
+"id": "seahawk_pal",
+"title": "Seahawk (PAL) (Atari)",
+"file": "roms/Seahawk (PAL).bin"
+},
+{
+"id": "seaquest",
+"title": "Seaquest (Atari)",
+"file": "roms/Seaquest.bin"
+},
+{
+"id": "secret_agent_prototype",
+"title": "Secret Agent (Prototype) (Atari)",
+"file": "roms/Secret Agent (Prototype).bin"
+},
+{
+"id": "secret_quest",
+"title": "Secret Quest (Atari)",
+"file": "roms/Secret Quest.bin"
+},
+{
+"id": "sentinel",
+"title": "Sentinel (Atari)",
+"file": "roms/Sentinel.bin"
+},
+{
+"id": "shootin_gallery",
+"title": "Shootin' Gallery (Atari)",
+"file": "roms/Shootin' Gallery.bin"
+},
+{
+"id": "shooting_arcade_prototype",
+"title": "Shooting Arcade (Prototype) (Atari)",
+"file": "roms/Shooting Arcade (Prototype).bin"
+},
+{
+"id": "shuttle_orbiter",
+"title": "Shuttle Orbiter (Atari)",
+"file": "roms/Shuttle Orbiter.bin"
+},
+{
+"id": "sinistar_prototype",
+"title": "Sinistar (Prototype) (Atari)",
+"file": "roms/Sinistar (Prototype).bin"
+},
+{
+"id": "sir_lancelot",
+"title": "Sir Lancelot (Atari)",
+"file": "roms/Sir Lancelot.bin"
+},
+{
+"id": "skate_boardin",
+"title": "Skate Boardin' (Atari)",
+"file": "roms/Skate Boardin'.bin"
+},
+{
+"id": "skeet_shoot_fixed",
+"title": "Skeet Shoot [fixed] (Atari)",
+"file": "roms/Skeet Shoot [fixed].bin"
+},
+{
+"id": "skeet_shoot",
+"title": "Skeet Shoot (Atari)",
+"file": "roms/Skeet Shoot.bin"
+},
+{
+"id": "ski_hunt_pal",
+"title": "Ski Hunt (PAL) (Atari)",
+"file": "roms/Ski Hunt (PAL).bin"
+},
+{
+"id": "skiing",
+"title": "Skiing (Atari)",
+"file": "roms/Skiing.bin"
+},
+{
+"id": "skindiver_pal",
+"title": "Skindiver (PAL) (Atari)",
+"file": "roms/Skindiver (PAL).bin"
+},
+{
+"id": "sky_diver_dare_diver",
+"title": "Sky Diver - Dare Diver (Atari)",
+"file": "roms/Sky Diver - Dare Diver.bin"
+},
+{
+"id": "sky_jinks",
+"title": "Sky Jinks (Atari)",
+"file": "roms/Sky Jinks.bin"
+},
+{
+"id": "sky_patrol_prototype",
+"title": "Sky Patrol (Prototype) (Atari)",
+"file": "roms/Sky Patrol (Prototype).bin"
+},
+{
+"id": "sky_skipper",
+"title": "Sky Skipper (Atari)",
+"file": "roms/Sky Skipper.bin"
+},
+{
+"id": "slot_machine_slots",
+"title": "Slot Machine - Slots (Atari)",
+"file": "roms/Slot Machine - Slots.bin"
+},
+{
+"id": "slot_racers_maze",
+"title": "Slot Racers - Maze (Atari)",
+"file": "roms/Slot Racers - Maze.bin"
+},
+{
+"id": "smurf_rescue_in_gargamel_s_castle_wf8_bankswitching",
+"title": "Smurf - Rescue in Gargamel's Castle [wF8 bankswitching] (Atari)",
+"file": "roms/Smurf - Rescue in Gargamel's Castle [wF8 bankswitching].bin"
+},
+{
+"id": "smurf_rescue_in_gargamel_s_castle",
+"title": "Smurf - Rescue in Gargamel's Castle (Atari)",
+"file": "roms/Smurf - Rescue in Gargamel's Castle.bin"
+},
+{
+"id": "smurfs_save_the_day",
+"title": "Smurfs Save the Day (Atari)",
+"file": "roms/Smurfs Save the Day.bin"
+},
+{
+"id": "snail_against_squirrel_pal",
+"title": "Snail Against Squirrel (PAL) (Atari)",
+"file": "roms/Snail Against Squirrel (PAL).bin"
+},
+{
+"id": "snark_prototype",
+"title": "Snark (Prototype) (Atari)",
+"file": "roms/Snark (Prototype).bin"
+},
+{
+"id": "sneak_n_peek",
+"title": "Sneak 'n Peek (Atari)",
+"file": "roms/Sneak 'n Peek.bin"
+},
+{
+"id": "snoopy_and_the_red_baron",
+"title": "Snoopy and the Red Baron (Atari)",
+"file": "roms/Snoopy and the Red Baron.bin"
+},
+{
+"id": "snow_white_prototype",
+"title": "Snow White (Prototype) (Atari)",
+"file": "roms/Snow White (Prototype).bin"
+},
+{
+"id": "solar_fox",
+"title": "Solar Fox (Atari)",
+"file": "roms/Solar Fox.bin"
+},
+{
+"id": "solar_storm",
+"title": "Solar Storm (Atari)",
+"file": "roms/Solar Storm.bin"
+},
+{
+"id": "solaris",
+"title": "Solaris (Atari)",
+"file": "roms/Solaris.bin"
+},
+{
+"id": "sonar_prototype",
+"title": "Sonar (Prototype) (Atari)",
+"file": "roms/Sonar (Prototype).bin"
+},
+{
+"id": "sorcerer_s_apprentice",
+"title": "Sorcerer's Apprentice (Atari)",
+"file": "roms/Sorcerer's Apprentice.bin"
+},
+{
+"id": "sorcerer",
+"title": "Sorcerer (Atari)",
+"file": "roms/Sorcerer.bin"
+},
+{
+"id": "space_attack",
+"title": "Space Attack (Atari)",
+"file": "roms/Space Attack.bin"
+},
+{
+"id": "space_cavern",
+"title": "Space Cavern (Atari)",
+"file": "roms/Space Cavern.bin"
+},
+{
+"id": "space_invaders",
+"title": "Space Invaders (Atari)",
+"file": "roms/Space Invaders.bin"
+},
+{
+"id": "space_jockey",
+"title": "Space Jockey (Atari)",
+"file": "roms/Space Jockey.bin"
+},
+{
+"id": "space_robot_pal",
+"title": "Space Robot (PAL) (Atari)",
+"file": "roms/Space Robot (PAL).bin"
+},
+{
+"id": "space_shuttle_a_journey_into_space_fe_bankswitching",
+"title": "Space Shuttle - A Journey Into Space [FE bankswitching] (Atari)",
+"file": "roms/Space Shuttle - A Journey Into Space [FE bankswitching].bin"
+},
+{
+"id": "space_shuttle_a_journey_into_space",
+"title": "Space Shuttle - A Journey Into Space (Atari)",
+"file": "roms/Space Shuttle - A Journey Into Space.bin"
+},
+{
+"id": "space_tunnel_pal",
+"title": "Space Tunnel (PAL) (Atari)",
+"file": "roms/Space Tunnel (PAL).bin"
+},
+{
+"id": "space_war_space_combat",
+"title": "Space War - Space Combat (Atari)",
+"file": "roms/Space War - Space Combat.bin"
+},
+{
+"id": "spacechase",
+"title": "Spacechase (Atari)",
+"file": "roms/Spacechase.bin"
+},
+{
+"id": "spacemaster_x_7",
+"title": "SpaceMaster X-7 (Atari)",
+"file": "roms/SpaceMaster X-7.bin"
+},
+{
+"id": "spider_fighter",
+"title": "Spider Fighter (Atari)",
+"file": "roms/Spider Fighter.bin"
+},
+{
+"id": "spider_man",
+"title": "Spider-Man (Atari)",
+"file": "roms/Spider-Man.bin"
+},
+{
+"id": "spiders",
+"title": "Spiders (Atari)",
+"file": "roms/Spiders.bin"
+},
+{
+"id": "spike_s_peak",
+"title": "Spike's Peak (Atari)",
+"file": "roms/Spike's Peak.bin"
+},
+{
+"id": "spinning_fireball_prototype",
+"title": "Spinning Fireball (Prototype) (Atari)",
+"file": "roms/Spinning Fireball (Prototype).bin"
+},
+{
+"id": "spitfire_attack",
+"title": "Spitfire Attack (Atari)",
+"file": "roms/Spitfire Attack.bin"
+},
+{
+"id": "springer",
+"title": "Springer (Atari)",
+"file": "roms/Springer.bin"
+},
+{
+"id": "sprint_master",
+"title": "Sprint Master (Atari)",
+"file": "roms/Sprint Master.bin"
+},
+{
+"id": "spy_hunter",
+"title": "Spy Hunter (Atari)",
+"file": "roms/Spy Hunter.bin"
+},
+{
+"id": "squeeze_box",
+"title": "Squeeze Box (Atari)",
+"file": "roms/Squeeze Box.bin"
+},
+{
+"id": "squoosh_prototype",
+"title": "Squoosh (Prototype) (Atari)",
+"file": "roms/Squoosh (Prototype).bin"
+},
+{
+"id": "sssnake",
+"title": "Sssnake (Atari)",
+"file": "roms/Sssnake.bin"
+},
+{
+"id": "stampede",
+"title": "Stampede (Atari)",
+"file": "roms/Stampede.bin"
+},
+{
+"id": "star_fox",
+"title": "Star Fox (Atari)",
+"file": "roms/Star Fox.bin"
+},
+{
+"id": "star_raiders",
+"title": "Star Raiders (Atari)",
+"file": "roms/Star Raiders.bin"
+},
+{
+"id": "star_ship_outer_space",
+"title": "Star Ship - Outer Space (Atari)",
+"file": "roms/Star Ship - Outer Space.bin"
+},
+{
+"id": "star_strike",
+"title": "Star Strike (Atari)",
+"file": "roms/Star Strike.bin"
+},
+{
+"id": "star_trek_strategic_operations_simulator",
+"title": "Star Trek - Strategic Operations Simulator (Atari)",
+"file": "roms/Star Trek - Strategic Operations Simulator.bin"
+},
+{
+"id": "star_voyager",
+"title": "Star Voyager (Atari)",
+"file": "roms/Star Voyager.bin"
+},
+{
+"id": "star_wars_jedi_arena",
+"title": "Star Wars - Jedi Arena (Atari)",
+"file": "roms/Star Wars - Jedi Arena.bin"
+},
+{
+"id": "star_wars_return_of_the_jedi_death_star_battle",
+"title": "Star Wars - Return of the Jedi - Death Star Battle (Atari)",
+"file": "roms/Star Wars - Return of the Jedi - Death Star Battle.bin"
+},
+{
+"id": "star_wars_return_of_the_jedi_ewok_adventure_prototype",
+"title": "Star Wars - Return of the Jedi - Ewok Adventure (Prototype) (Atari)",
+"file": "roms/Star Wars - Return of the Jedi - Ewok Adventure (Prototype).bin"
+},
+{
+"id": "star_wars_the_arcade_game",
+"title": "Star Wars - The Arcade Game (Atari)",
+"file": "roms/Star Wars - The Arcade Game.bin"
+},
+{
+"id": "star_wars_the_empire_strikes_back",
+"title": "Star Wars - The Empire Strikes Back (Atari)",
+"file": "roms/Star Wars - The Empire Strikes Back.bin"
+},
+{
+"id": "stargate",
+"title": "Stargate (Atari)",
+"file": "roms/Stargate.bin"
+},
+{
+"id": "stargunner",
+"title": "Stargunner (Atari)",
+"file": "roms/Stargunner.bin"
+},
+{
+"id": "starmaster",
+"title": "StarMaster (Atari)",
+"file": "roms/StarMaster.bin"
+},
+{
+"id": "steeplechase_pal",
+"title": "Steeplechase (PAL) (Atari)",
+"file": "roms/Steeplechase (PAL).bin"
+},
+{
+"id": "steeplechase",
+"title": "Steeplechase (Atari)",
+"file": "roms/Steeplechase.bin"
+},
+{
+"id": "stellar_track",
+"title": "Stellar Track (Atari)",
+"file": "roms/Stellar Track.bin"
+},
+{
+"id": "stone_age",
+"title": "Stone Age (Atari)",
+"file": "roms/Stone Age.bin"
+},
+{
+"id": "strategy_x",
+"title": "Strategy X (Atari)",
+"file": "roms/Strategy X.bin"
+},
+{
+"id": "strawberry_shortcake_musical_match_ups",
+"title": "Strawberry Shortcake - Musical Match-Ups (Atari)",
+"file": "roms/Strawberry Shortcake - Musical Match-Ups.bin"
+},
+{
+"id": "street_racer_speedway_ii",
+"title": "Street Racer - Speedway II (Atari)",
+"file": "roms/Street Racer - Speedway II.bin"
+},
+{
+"id": "stronghold",
+"title": "Stronghold (Atari)",
+"file": "roms/Stronghold.bin"
+},
+{
+"id": "stunt_cycle_prototype",
+"title": "Stunt Cycle (Prototype) (Atari)",
+"file": "roms/Stunt Cycle (Prototype).bin"
+},
+{
+"id": "sub_scan",
+"title": "Sub-Scan (Atari)",
+"file": "roms/Sub-Scan.bin"
+},
+{
+"id": "submarine_commander",
+"title": "Submarine Commander (Atari)",
+"file": "roms/Submarine Commander.bin"
+},
+{
+"id": "subterranea",
+"title": "Subterranea (Atari)",
+"file": "roms/Subterranea.bin"
+},
+{
+"id": "suicide_mission",
+"title": "Suicide Mission (Atari)",
+"file": "roms/Suicide Mission.bin"
+},
+{
+"id": "summer_games",
+"title": "Summer Games (Atari)",
+"file": "roms/Summer Games.bin"
+},
+{
+"id": "super_breakout_fixed",
+"title": "Super Breakout [fixed] (Atari)",
+"file": "roms/Super Breakout [fixed].bin"
+},
+{
+"id": "super_breakout",
+"title": "Super Breakout (Atari)",
+"file": "roms/Super Breakout.bin"
+},
+{
+"id": "super_challenge_baseball",
+"title": "Super Challenge Baseball (Atari)",
+"file": "roms/Super Challenge Baseball.bin"
+},
+{
+"id": "super_challenge_football",
+"title": "Super Challenge Football (Atari)",
+"file": "roms/Super Challenge Football.bin"
+},
+{
+"id": "super_cobra_prototype",
+"title": "Super Cobra (Prototype) (Atari)",
+"file": "roms/Super Cobra (Prototype).bin"
+},
+{
+"id": "super_cobra",
+"title": "Super Cobra (Atari)",
+"file": "roms/Super Cobra.bin"
+},
+{
+"id": "super_football",
+"title": "Super Football (Atari)",
+"file": "roms/Super Football.bin"
+},
+{
+"id": "supercharger_bios",
+"title": "Supercharger BIOS (Atari)",
+"file": "roms/Supercharger BIOS.bin"
+},
+{
+"id": "superman_fixed",
+"title": "Superman [fixed] (Atari)",
+"file": "roms/Superman [fixed].bin"
+},
+{
+"id": "superman",
+"title": "Superman (Atari)",
+"file": "roms/Superman.bin"
+},
+{
+"id": "surf_s_up_prototype",
+"title": "Surf's Up (Prototype) (Atari)",
+"file": "roms/Surf's Up (Prototype).bin"
+},
+{
+"id": "surfer_s_paradise_but_danger_below_pal",
+"title": "Surfer's Paradise - But Danger Below! (PAL) (Atari)",
+"file": "roms/Surfer's Paradise - But Danger Below! (PAL).bin"
+},
+{
+"id": "surround_chase",
+"title": "Surround - Chase (Atari)",
+"file": "roms/Surround - Chase.bin"
+},
+{
+"id": "survival_island",
+"title": "Survival Island (Atari)",
+"file": "roms/Survival Island.bin"
+},
+{
+"id": "survival_run_prototype",
+"title": "Survival Run (Prototype) (Atari)",
+"file": "roms/Survival Run (Prototype).bin"
+},
+{
+"id": "survival_run",
+"title": "Survival Run (Atari)",
+"file": "roms/Survival Run.bin"
+},
+{
+"id": "sweat_the_decathlon_game_prototype",
+"title": "Sweat! - The Decathlon Game (Prototype) (Atari)",
+"file": "roms/Sweat! - The Decathlon Game (Prototype).bin"
+},
+{
+"id": "sword_of_saros",
+"title": "Sword of Saros (Atari)",
+"file": "roms/Sword of Saros.bin"
+},
+{
+"id": "swordfight",
+"title": "Swordfight (Atari)",
+"file": "roms/Swordfight.bin"
+},
+{
+"id": "swordquest_earthworld",
+"title": "SwordQuest - EarthWorld (Atari)",
+"file": "roms/SwordQuest - EarthWorld.bin"
+},
+{
+"id": "swordquest_fireworld",
+"title": "SwordQuest - FireWorld (Atari)",
+"file": "roms/SwordQuest - FireWorld.bin"
+},
+{
+"id": "swordquest_waterworld",
+"title": "SwordQuest - WaterWorld (Atari)",
+"file": "roms/SwordQuest - WaterWorld.bin"
+},
+{
+"id": "tac_scan",
+"title": "Tac-Scan (Atari)",
+"file": "roms/Tac-Scan.bin"
+},
+{
+"id": "tank_blitz_prototype",
+"title": "Tank Blitz (Prototype) (Atari)",
+"file": "roms/Tank Blitz (Prototype).bin"
+},
+{
+"id": "tapeworm",
+"title": "Tapeworm (Atari)",
+"file": "roms/Tapeworm.bin"
+},
+{
+"id": "tapper",
+"title": "Tapper (Atari)",
+"file": "roms/Tapper.bin"
+},
+{
+"id": "tarzan_prototype",
+"title": "Tarzan (Prototype) (Atari)",
+"file": "roms/Tarzan (Prototype).bin"
+},
+{
+"id": "tax_avoiders",
+"title": "Tax Avoiders (Atari)",
+"file": "roms/Tax Avoiders.bin"
+},
+{
+"id": "taz",
+"title": "Taz (Atari)",
+"file": "roms/Taz.bin"
+},
+{
+"id": "telepathy_prototype",
+"title": "Telepathy (Prototype) (Atari)",
+"file": "roms/Telepathy (Prototype).bin"
+},
+{
+"id": "tempest_prototype",
+"title": "Tempest (Prototype) (Atari)",
+"file": "roms/Tempest (Prototype).bin"
+},
+{
+"id": "tennis",
+"title": "Tennis (Atari)",
+"file": "roms/Tennis.bin"
+},
+{
+"id": "texas_chainsaw_massacre_the_prototype",
+"title": "Texas Chainsaw Massacre, The (Prototype) (Atari)",
+"file": "roms/Texas Chainsaw Massacre, The (Prototype).bin"
+},
+{
+"id": "texas_chainsaw_massacre_the",
+"title": "Texas Chainsaw Massacre, The (Atari)",
+"file": "roms/Texas Chainsaw Massacre, The.bin"
+},
+{
+"id": "threshold",
+"title": "Threshold (Atari)",
+"file": "roms/Threshold.bin"
+},
+{
+"id": "thunderground",
+"title": "Thunderground (Atari)",
+"file": "roms/Thunderground.bin"
+},
+{
+"id": "thwocker_prototype",
+"title": "Thwocker (Prototype) (Atari)",
+"file": "roms/Thwocker (Prototype).bin"
+},
+{
+"id": "time_pilot",
+"title": "Time Pilot (Atari)",
+"file": "roms/Time Pilot.bin"
+},
+{
+"id": "time_warp_pal",
+"title": "Time Warp (PAL) (Atari)",
+"file": "roms/Time Warp (PAL).bin"
+},
+{
+"id": "title_match_pro_wrestling",
+"title": "Title Match Pro Wrestling (Atari)",
+"file": "roms/Title Match Pro Wrestling.bin"
+},
+{
+"id": "tomarc_the_barbarian",
+"title": "Tomarc the Barbarian (Atari)",
+"file": "roms/Tomarc the Barbarian.bin"
+},
+{
+"id": "tomcat_the_f_14_fighter_simulator",
+"title": "Tomcat - The F-14 Fighter Simulator (Atari)",
+"file": "roms/Tomcat - The F-14 Fighter Simulator.bin"
+},
+{
+"id": "tooth_protectors",
+"title": "Tooth Protectors (Atari)",
+"file": "roms/Tooth Protectors.bin"
+},
+{
+"id": "towering_inferno",
+"title": "Towering Inferno (Atari)",
+"file": "roms/Towering Inferno.bin"
+},
+{
+"id": "track_and_field",
+"title": "Track and Field (Atari)",
+"file": "roms/Track and Field.bin"
+},
+{
+"id": "treasure_below_pal",
+"title": "Treasure Below (PAL) (Atari)",
+"file": "roms/Treasure Below (PAL).bin"
+},
+{
+"id": "trick_shot",
+"title": "Trick Shot (Atari)",
+"file": "roms/Trick Shot.bin"
+},
+{
+"id": "tron_deadly_discs",
+"title": "TRON - Deadly Discs (Atari)",
+"file": "roms/TRON - Deadly Discs.bin"
+},
+{
+"id": "tunnel_runner",
+"title": "Tunnel Runner (Atari)",
+"file": "roms/Tunnel Runner.bin"
+},
+{
+"id": "turbo_prototype",
+"title": "Turbo (Prototype) (Atari)",
+"file": "roms/Turbo (Prototype).bin"
+},
+{
+"id": "turmoil",
+"title": "Turmoil (Atari)",
+"file": "roms/Turmoil.bin"
+},
+{
+"id": "tutankham",
+"title": "Tutankham (Atari)",
+"file": "roms/Tutankham.bin"
+},
+{
+"id": "universal_chaos",
+"title": "Universal Chaos (Atari)",
+"file": "roms/Universal Chaos.bin"
+},
+{
+"id": "unknown_activision_game_prototype",
+"title": "Unknown Activision Game (Prototype) (Atari)",
+"file": "roms/Unknown Activision Game (Prototype).bin"
+},
+{
+"id": "unknown_datatech_game",
+"title": "Unknown Datatech Game (Atari)",
+"file": "roms/Unknown Datatech Game.bin"
+},
+{
+"id": "up_n_down",
+"title": "Up 'n Down (Atari)",
+"file": "roms/Up 'n Down.bin"
+},
+{
+"id": "vanguard",
+"title": "Vanguard (Atari)",
+"file": "roms/Vanguard.bin"
+},
+{
+"id": "vcs_draw_demo",
+"title": "VCS Draw Demo (Atari)",
+"file": "roms/VCS Draw Demo.bin"
+},
+{
+"id": "vcs_vertical_bars",
+"title": "VCS Vertical Bars (Atari)",
+"file": "roms/VCS Vertical Bars.bin"
+},
+{
+"id": "venetian_blinds_demo",
+"title": "Venetian Blinds Demo (Atari)",
+"file": "roms/Venetian Blinds Demo.bin"
+},
+{
+"id": "venture",
+"title": "Venture (Atari)",
+"file": "roms/Venture.bin"
+},
+{
+"id": "video_cartridge_bicycle_trainer_prototype",
+"title": "Video Cartridge Bicycle Trainer (Prototype) (Atari)",
+"file": "roms/Video Cartridge Bicycle Trainer (Prototype).bin"
+},
+{
+"id": "video_checkers_checkers",
+"title": "Video Checkers - Checkers (Atari)",
+"file": "roms/Video Checkers - Checkers.bin"
+},
+{
+"id": "video_chess",
+"title": "Video Chess (Atari)",
+"file": "roms/Video Chess.bin"
+},
+{
+"id": "video_jogger",
+"title": "Video Jogger (Atari)",
+"file": "roms/Video Jogger.bin"
+},
+{
+"id": "video_life_different_ram_data",
+"title": "Video Life [different RAM data] (Atari)",
+"file": "roms/Video Life [different RAM data].bin"
+},
+{
+"id": "video_life",
+"title": "Video Life (Atari)",
+"file": "roms/Video Life.bin"
+},
+{
+"id": "video_olympics_pong_sports",
+"title": "Video Olympics - Pong Sports (Atari)",
+"file": "roms/Video Olympics - Pong Sports.bin"
+},
+{
+"id": "video_pinball_arcade_pinball",
+"title": "Video Pinball - Arcade Pinball (Atari)",
+"file": "roms/Video Pinball - Arcade Pinball.bin"
+},
+{
+"id": "video_reflex_no_roman_numbers",
+"title": "Video Reflex [no roman numbers] (Atari)",
+"file": "roms/Video Reflex [no roman numbers].bin"
+},
+{
+"id": "video_reflex",
+"title": "Video Reflex (Atari)",
+"file": "roms/Video Reflex.bin"
+},
+{
+"id": "wabbit",
+"title": "Wabbit (Atari)",
+"file": "roms/Wabbit.bin"
+},
+{
+"id": "wall_ball",
+"title": "Wall Ball (Atari)",
+"file": "roms/Wall Ball.bin"
+},
+{
+"id": "wall_defender_pal",
+"title": "Wall-Defender (PAL) (Atari)",
+"file": "roms/Wall-Defender (PAL).bin"
+},
+{
+"id": "warlords",
+"title": "Warlords (Atari)",
+"file": "roms/Warlords.bin"
+},
+{
+"id": "warplock",
+"title": "Warplock (Atari)",
+"file": "roms/Warplock.bin"
+},
+{
+"id": "whales_pal",
+"title": "Whales (PAL) (Atari)",
+"file": "roms/Whales (PAL).bin"
+},
+{
+"id": "wing_war_pal",
+"title": "Wing War (PAL) (Atari)",
+"file": "roms/Wing War (PAL).bin"
+},
+{
+"id": "wings_prototype",
+"title": "Wings (Prototype) (Atari)",
+"file": "roms/Wings (Prototype).bin"
+},
+{
+"id": "winter_games",
+"title": "Winter Games (Atari)",
+"file": "roms/Winter Games.bin"
+},
+{
+"id": "wizard_prototype",
+"title": "Wizard (Prototype) (Atari)",
+"file": "roms/Wizard (Prototype).bin"
+},
+{
+"id": "wizard_of_wor",
+"title": "Wizard of Wor (Atari)",
+"file": "roms/Wizard of Wor.bin"
+},
+{
+"id": "word_zapper",
+"title": "Word Zapper (Atari)",
+"file": "roms/Word Zapper.bin"
+},
+{
+"id": "words_attack_pal",
+"title": "Words-Attack (PAL) (Atari)",
+"file": "roms/Words-Attack (PAL).bin"
+},
+{
+"id": "worm_war_i",
+"title": "Worm War I (Atari)",
+"file": "roms/Worm War I.bin"
+},
+{
+"id": "x_mission_pal",
+"title": "X'Mission (PAL) (Atari)",
+"file": "roms/X'Mission (PAL).bin"
+},
+{
+"id": "x_man",
+"title": "X-Man (Atari)",
+"file": "roms/X-Man.bin"
+},
+{
+"id": "xenophobe",
+"title": "Xenophobe (Atari)",
+"file": "roms/Xenophobe.bin"
+},
+{
+"id": "xevious_prototype",
+"title": "Xevious (Prototype) (Atari)",
+"file": "roms/Xevious (Prototype).bin"
+},
+{
+"id": "yars_revenge",
+"title": "Yars' Revenge (Atari)",
+"file": "roms/Yars' Revenge.bin"
+},
+{
+"id": "z_tack_pal",
+"title": "Z-Tack (PAL) (Atari)",
+"file": "roms/Z-Tack (PAL).bin"
+},
+{
+"id": "zaxxon_wf8_bankswitching",
+"title": "Zaxxon [wF8 bankswitching] (Atari)",
+"file": "roms/Zaxxon [wF8 bankswitching].bin"
+},
+{
+"id": "zaxxon",
+"title": "Zaxxon (Atari)",
+"file": "roms/Zaxxon.bin"
+},
+{
+"id": "zoo_keeper_sounds_prototype",
+"title": "Zoo Keeper Sounds (Prototype) (Atari)",
+"file": "roms/Zoo Keeper Sounds (Prototype).bin"
 }
 ]
